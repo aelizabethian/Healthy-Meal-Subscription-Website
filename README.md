@@ -2,7 +2,7 @@
 
 
 A fictional website - example of coding knowledge.
-Not all links go anywhere becuase this is fictional (e.g. social links don't go anywhere).
+Not all links go anywhere because this is fictional (e.g. social links don't go anywhere).
 
 More as an example of styling, layout, forms, etcs.
 
